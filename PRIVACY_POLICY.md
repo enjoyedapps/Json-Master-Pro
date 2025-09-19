@@ -98,8 +98,8 @@ JSON Master Pro is a Chrome extension that provides JSON formatting, validation,
 
 ### Questions or Concerns
 If you have any questions about this privacy policy or our data practices, please contact us at:
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Email: enjoyedapp@gmail.com
+- GitHub: https://github.com/enjoyedapps
 
 ### Data Requests
 Since we don't collect any data, there are no data requests to process. All your data remains on your device.
